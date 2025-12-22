@@ -1,0 +1,9 @@
+﻿Calc Name,Type,Arg1,Arg2,Arg3,Notes
+homo_PMMA_cleav,bde,PMMA_tetramer.xyz,PMMA_rad_1.xyz,PMMA_rad_2.xyz,
+homo_PMDL_cleav,bde,PMDL_tetramer.xyz,PMDL_rad_1.xyz,PMDL_rad_2.xyz,
+co_AABB_cleav_case_A,bde,AABB_tetramer.xyz,AABB_case_A_t_rad.xyz,AABB_case_A_p_rad.xyz,"Case A: MMA primary, MDL tertiary"
+co_ABAB_cleav_case_A,bde,ABAB_tetramer.xyz,ABAB_case_A_t_rad.xyz,ABAB_case_A_p_rad.xyz,"Case A: MMA primary, MDL tertiary"
+co_AABB_cleav_case_B,bde,AABB_tetramer.xyz,AABB_case_B_t_rad.xyz,AABB_case_B_p_rad.xyz,"Case B: MDL primary, MMA tertiary"
+co_ABAB_cleav_case_B,bde,ABAB_tetramer.xyz,ABAB_case_B_t_rad.xyz,ABAB_case_B_p_rad.xyz,"Case B: MDL primary, MMA tertiary"
+unsat_end_cleav,bde,PMMA_tetramer_unsat.xyz,unsat_rad_1.xyz,unsat_rad_2.xyz,
+internal_alkene_end_cleav,bde,PMMA_tetramer_internal_alkene.xyz,internal_alkene_rad_1.xyz,internal_alkene_rad_2.xyz,

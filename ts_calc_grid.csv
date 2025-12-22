@@ -1,0 +1,10 @@
+﻿Calc Name,Grouping,Type,Arg1,Notes
+PMMA_p_rad_bs,PMMA,ts,PMMA_p_rad_tetramer.xyz,
+PMMA_t_rad_bs,PMMA,ts,PMMA_t_rad_tetramer.xyz,
+PMMA_elim,PMMA,ts,blank.xyz,has the same starting structure as PMMA_prad_bs
+PMDL_t_rad_bs,PMDL,ts,PMDL_t_rad_tetramer.xyz,
+PMDL_p_rad_bs,PMDL,ts,PMDL_p_rad_tetramer.xyz,
+PMDL_elim,PMDL,ts,blank.xyz,has the same starting structure as PMDL_prad_bs
+co_t_dl_to_ma,hetero,ts,blank.xyz,ABAB_case_A_t_rad.xyz
+co_t_ma_to_dl,hetero,ts,blank.xyz,ABAB_case_B_t_rad.xyz
+co_p_dl_to_ma,hetero,ts,blank.xyz,ABAB_case_B_p_rad.xyz
