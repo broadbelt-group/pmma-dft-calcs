@@ -1,4 +1,4 @@
-# DFT Calculations Supporting A Mechanistic Understanding of How Weak Links Enhance Polymer Recyclability Towards Uncovering Idealized Doping Strategy
+# DFT Calculations Supporting "A Mechanistic Understanding of How Weak Links Enhance Polymer Recyclability Towards Uncovering Idealized Doping Strategy"
 
 ## Overview
 This repository contains input and output files for the density functional theory (DFT) calculations reported in the manuscript:
@@ -7,94 +7,6 @@ This repository contains input and output files for the density functional theor
 *2025*
 
 The calculations were performed to compute thermodynamic properties for the polymer and copolymer systems discussed in the paper. 
-
----
-
-## Repository Structure
-```
-pmma-dft-calcs/
-├── README.md
-├── bde_calc_grid.csv
-├── ts_calc_grid.csv
-│
-├── bond_dissociation/
-│   ├── bond_dissociation_energies.csv
-│   ├── co_AABB_cleav_case_A/
-│   │   ├── neutral/
-│   │   ├── radical1/
-│   │   └── radical2/
-│   ├── co_AABB_cleav_case_B/
-│   │   ├── neutral/
-│   │   ├── radical1/
-│   │   └── radical2/
-│   ├── co_ABAB_cleav_case_A/
-│   │   ├── neutral/
-│   │   ├── radical1/
-│   │   └── radical2/
-│   ├── co_ABAB_cleav_case_B/
-│   │   ├── neutral/
-│   │   ├── radical1/
-│   │   └── radical2/
-│   ├── homo_PMDL_cleav/
-│   │   ├── neutral/
-│   │   ├── radical1/
-│   │   └── radical2/
-│   ├── homo_PMMA_cleav/
-│   │   ├── neutral/
-│   │   ├── radical1/
-│   │   └── radical2/
-│   ├── internal_alkene_end_cleav/
-│   │   ├── neutral/
-│   │   ├── radical1/
-│   │   └── radical2/
-│   └── unsat_end_cleav/
-│       ├── neutral/
-│       ├── radical1/
-│       └── radical2/
-│
-├── depoly_reactions/
-│   ├── hetero/
-│   │   ├── co_p_dl_to_ma/
-│   │   ├── co_p_ma_to_dl/
-│   │   ├── co_t_dl_to_ma/
-│   │   └── co_t_ma_to_dl/
-│   ├── PMDL/
-│   │   ├── PMDL_elim/
-│   │   ├── PMDL_p_rad_bs/
-│   │   └── PMDL_t_rad_bs/
-│   └── PMMA/
-│       ├── PMMA_elim/
-│       ├── PMMA_p_rad_bs/
-│       └── PMMA_t_rad_bs/
-│
-└── input_xyzs/
-    ├── AABB_case_A_p_rad.xyz
-    ├── AABB_case_A_t_rad.xyz
-    ├── AABB_case_B_p_rad.xyz
-    ├── AABB_case_B_t_rad.xyz
-    ├── AABB_tetramer.xyz
-    ├── ABAB_case_A_p_rad.xyz
-    ├── ABAB_case_A_t_rad.xyz
-    ├── ABAB_case_B_p_rad.xyz
-    ├── ABAB_case_B_t_rad.xyz
-    ├── ABAB_tetramer.xyz
-    ├── PMDL_p_rad_tetramer.xyz
-    ├── PMDL_rad_1.xyz
-    ├── PMDL_rad_2.xyz
-    ├── PMDL_t_rad_tetramer.xyz
-    ├── PMDL_tetramer.xyz
-    ├── PMMA_p_rad_tetramer.xyz
-    ├── PMMA_rad_1.xyz
-    ├── PMMA_rad_2.xyz
-    ├── PMMA_t_rad_tetramer.xyz
-    ├── PMMA_tetramer_internal_alkene.xyz
-    ├── PMMA_tetramer_unsat.xyz
-    ├── PMMA_tetramer.xyz
-    ├── unsat_rad_1.xyz
-    ├── internal_alkene_rad_1.xyz
-    ├── internal_alkene_rad_2.xyz
-    └── unsat_rad_2.xyz
-```
 
 ---
 
