@@ -1,0 +1,9 @@
+Directory,Relative_Path,Delta_H_298K_kcal_mol,Delta_H_563K_kcal_mol
+co_ABAB_cleav_case_A,co_ABAB_cleav_case_A,66.519,66.681
+co_AABB_cleav_case_A,co_AABB_cleav_case_A,64.503,64.683
+internal_alkene_end_cleav,internal_alkene_end_cleav,61.969,62.209
+co_ABAB_cleav_case_B,co_ABAB_cleav_case_B,68.012,68.212
+co_AABB_cleav_case_B,co_AABB_cleav_case_B,70.594,70.819
+homo_PMMA_cleav,homo_PMMA_cleav,69.862,70.108
+unsat_end_cleav,unsat_end_cleav,57.669,57.738
+homo_PMDL_cleav,homo_PMDL_cleav,67.728,67.895

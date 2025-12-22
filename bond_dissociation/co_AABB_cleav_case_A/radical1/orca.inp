@@ -1,0 +1,7 @@
+! WB97X-D3 def2-TZVP RIJCOSX TightOpt Freq TightSCF
+%pal nprocs 8 end
+%maxcore 16000
+%scf maxiter 2000 end
+
+
+* xyzfile 0 2 orca_trj.xyz

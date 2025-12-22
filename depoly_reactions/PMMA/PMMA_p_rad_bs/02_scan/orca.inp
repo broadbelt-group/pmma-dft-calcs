@@ -1,0 +1,7 @@
+! B3LYP DEF2-SVP Opt D4
+%pal nprocs 8 end
+%maxcore 16000
+%geom scan B 38 35 = 1.55, 4.0, 25 end end
+
+
+* xyzfile 0 2 structure.xyz

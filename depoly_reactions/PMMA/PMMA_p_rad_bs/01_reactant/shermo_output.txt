@@ -1,0 +1,137 @@
+ Shermo: A general code for calculating molecular thermochemistry properties
+ Version 2.6  Release date: 2024-Feb-11
+ Developer: Tian Lu (sobereva@sina.com)
+ Beijing Kein Research Center for Natural Sciences (http://www.keinsci.com)
+ Official website: http://sobereva.com/soft/shermo
+ 
+  **** If this code is utilized in your work, PLEASE CITE following paper ****
+ Tian Lu, Qinxue Chen, Shermo: A general code for calculating molecular thermodynamic properties, Comput. Theor. Chem., 1200, 113249 (2021) DOI: 10.1016/j.comptc.2021.113249
+ 
+ Loading running parameters from settings.ini...
+ Command of invoking Shermo:
+ Shermo orca.out -T 50,1000,50
+ Note: One or more running parameters are overridden by arguments
+ 
+ Running parameters:
+ Printing individual contribution of vibration modes: No
+ Temperature scan, from    50.000 to  1000.000, step:  50.000 K
+ Pressure:          1.000 atm
+ Scale factor of vibrational frequencies for ZPE:        1.0000
+ Scale factor of vibrational frequencies for U(T)-U(0):  1.0000
+ Scale factor of vibrational frequencies for S(T):       1.0000
+ Scale factor of vibrational frequencies for CV:         1.0000
+ Low frequencies treatment: Grimme's interpolation for entropy
+ Vibrational frequency threshold used in the interpolation is 100.00 cm^-1
+ 
+ Default atomic masses: Same as the output file
+ Loading ORCA output file...
+ Note: The electronic energy extracted from inputted file will be used
+ Detecting point group...
+ Point group has been successfully detected
+ 
+                       ======= Molecular information =======
+ Electronic energy:    -1423.28226383 a.u.
+ Spin multiplicity:  2
+ Atom    1 (C )   Mass:   12.011000 amu
+ Atom    2 (H )   Mass:    1.008000 amu
+ Atom    3 (H )   Mass:    1.008000 amu
+ Atom    4 (C )   Mass:   12.011000 amu
+ Atom    5 (C )   Mass:   12.011000 amu
+ Atom    6 (H )   Mass:    1.008000 amu
+ Atom    7 (H )   Mass:    1.008000 amu
+ Atom    8 (C )   Mass:   12.011000 amu
+ Atom    9 (C )   Mass:   12.011000 amu
+ Atom   10 (O )   Mass:   15.999000 amu
+ Atom   11 (O )   Mass:   15.999000 amu
+ Atom   12 (C )   Mass:   12.011000 amu
+ Atom   13 (O )   Mass:   15.999000 amu
+ Atom   14 (O )   Mass:   15.999000 amu
+ Atom   15 (C )   Mass:   12.011000 amu
+ Atom   16 (H )   Mass:    1.008000 amu
+ Atom   17 (H )   Mass:    1.008000 amu
+ Atom   18 (H )   Mass:    1.008000 amu
+ Atom   19 (C )   Mass:   12.011000 amu
+ Atom   20 (H )   Mass:    1.008000 amu
+ Atom   21 (H )   Mass:    1.008000 amu
+ Atom   22 (H )   Mass:    1.008000 amu
+ Atom   23 (C )   Mass:   12.011000 amu
+ Atom   24 (H )   Mass:    1.008000 amu
+ Atom   25 (H )   Mass:    1.008000 amu
+ Atom   26 (H )   Mass:    1.008000 amu
+ Atom   27 (C )   Mass:   12.011000 amu
+ Atom   28 (H )   Mass:    1.008000 amu
+ Atom   29 (H )   Mass:    1.008000 amu
+ Atom   30 (H )   Mass:    1.008000 amu
+ Atom   31 (H )   Mass:    1.008000 amu
+ Atom   32 (C )   Mass:   12.011000 amu
+ Atom   33 (C )   Mass:   12.011000 amu
+ Atom   34 (H )   Mass:    1.008000 amu
+ Atom   35 (H )   Mass:    1.008000 amu
+ Atom   36 (C )   Mass:   12.011000 amu
+ Atom   37 (C )   Mass:   12.011000 amu
+ Atom   38 (C )   Mass:   12.011000 amu
+ Atom   39 (C )   Mass:   12.011000 amu
+ Atom   40 (H )   Mass:    1.008000 amu
+ Atom   41 (H )   Mass:    1.008000 amu
+ Atom   42 (O )   Mass:   15.999000 amu
+ Atom   43 (O )   Mass:   15.999000 amu
+ Atom   44 (H )   Mass:    1.008000 amu
+ Atom   45 (H )   Mass:    1.008000 amu
+ Atom   46 (H )   Mass:    1.008000 amu
+ Atom   47 (C )   Mass:   12.011000 amu
+ Atom   48 (C )   Mass:   12.011000 amu
+ Atom   49 (C )   Mass:   12.011000 amu
+ Atom   50 (H )   Mass:    1.008000 amu
+ Atom   51 (H )   Mass:    1.008000 amu
+ Atom   52 (H )   Mass:    1.008000 amu
+ Atom   53 (O )   Mass:   15.999000 amu
+ Atom   54 (O )   Mass:   15.999000 amu
+ Atom   55 (H )   Mass:    1.008000 amu
+ Atom   56 (H )   Mass:    1.008000 amu
+ Atom   57 (H )   Mass:    1.008000 amu
+ Atom   58 (C )   Mass:   12.011000 amu
+ Atom   59 (H )   Mass:    1.008000 amu
+ Atom   60 (H )   Mass:    1.008000 amu
+ Atom   61 (H )   Mass:    1.008000 amu
+ Atom   62 (C )   Mass:   12.011000 amu
+ Atom   63 (H )   Mass:    1.008000 amu
+ Atom   64 (H )   Mass:    1.008000 amu
+ Total mass:      415.503000 amu
+ 
+ Point group: C1  
+ Rotational symmetry number:  1
+ Principal moments of inertia (amu*Bohr^2):
+     6731.543797    17978.448468    21332.363046
+ Rotational constants relative to principal axes (GHz):
+      0.268102      0.100384      0.084601
+ Rotational temperatures (K):    0.012867    0.004818    0.004060
+ This is not a linear molecule
+
+ There are   186 frequencies (cm^-1):
+     9.3    23.7    32.5    45.2    55.5    62.6    66.8    73.7    75.9
+    81.2   103.9   108.6   115.9   126.9   140.7   157.9   159.9   161.1
+   162.5   164.7   177.8   179.7   182.0   197.1   199.5   217.2   225.5
+   227.1   244.1   246.3   266.3   276.4   281.6   285.3   290.5   299.4
+   303.9   321.9   347.4   350.5   356.1   357.3   366.5   368.4   374.0
+   382.8   385.2   398.8   414.4   476.3   495.3   498.3   501.8   520.7
+   546.6   585.6   600.0   604.2   620.0   652.5   776.5   788.8   798.5
+   804.8   822.0   823.1   836.9   847.3   871.6   873.8   892.6   917.0
+   928.4   936.0   953.6   955.1   967.5   968.4   984.6  1005.3  1014.8
+  1035.3  1051.9  1054.2  1056.1  1061.6  1108.9  1136.8  1155.0  1165.0
+  1177.0  1184.3  1184.4  1184.4  1184.5  1189.9  1197.0  1202.5  1215.4
+  1216.3  1221.9  1230.7  1244.6  1253.8  1260.4  1261.9  1267.3  1269.1
+  1277.7  1322.5  1346.6  1369.2  1380.6  1387.3  1406.7  1408.5  1417.6
+  1424.2  1431.6  1436.8  1440.1  1457.7  1467.9  1477.0  1478.3  1480.8
+  1481.4  1484.9  1488.0  1488.8  1490.0  1491.0  1491.2  1494.1  1494.8
+  1498.4  1499.3  1500.4  1502.5  1502.9  1503.5  1504.4  1506.3  1510.8
+  1520.9  1525.9  1532.2  1822.6  1824.4  1827.1  1832.1  3059.6  3071.3
+  3072.7  3073.4  3073.4  3073.7  3073.8  3077.0  3078.6  3081.5  3082.2
+  3084.7  3120.2  3126.8  3132.1  3136.0  3147.4  3148.4  3151.6  3152.0
+  3152.4  3152.6  3154.2  3161.0  3161.6  3166.0  3171.9  3172.1  3172.8
+  3174.6  3184.3  3184.4  3184.9  3185.0  3278.6
+ 
+ Performing scan of temperature/pressure...
+
+ Done! Thermochemistry quantities at various temperatures/pressures have been outputted to scan_UHG.txt and scan_SCq.txt
+ scan_UHG.txt includes thermal correction to U, H and G, as well as sum of each of them and electronic energy
+ scan_SCq.txt includes S, CV, CP, q(V=0) and q(bot)
