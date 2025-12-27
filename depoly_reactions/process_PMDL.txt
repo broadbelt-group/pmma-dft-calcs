@@ -1,0 +1,25 @@
+Found subdirectories: ['PMDL_t_rad_bs', 'PMDL_p_rad_bs', 'PMDL_elim']
+Processing subdirectory: PMDL_t_rad_bs
+Analysis complete for PMDL_t_rad_bs
+Ea = 18.06 ± 0.05 kcal/mol (0.27%)
+A = 3.35e+13 ± 4.61e+12 1/s (13.76%)
+k at 290°C = 3.28e+06 ± 4.73e+05 1/s (14.42%)
+R² = 0.9999
+Results saved to: PMDL_t_rad_bs_analysis.csv
+
+Processing subdirectory: PMDL_p_rad_bs
+Analysis complete for PMDL_p_rad_bs
+Ea = 25.44 ± 0.03 kcal/mol (0.12%)
+A = 1.70e+13 ± 1.43e+12 1/s (8.42%)
+k at 290°C = 2.28e+03 ± 2.02e+02 1/s (8.83%)
+R² = 1.0000
+Results saved to: PMDL_p_rad_bs_analysis.csv
+
+Processing subdirectory: PMDL_elim
+Analysis complete for PMDL_elim
+Ea = 27.28 ± 0.03 kcal/mol (0.11%)
+A = 1.84e+13 ± 1.56e+12 1/s (8.46%)
+k at 290°C = 4.75e+02 ± 4.21e+01 1/s (8.87%)
+R² = 1.0000
+Results saved to: PMDL_elim_analysis.csv
+

@@ -1,0 +1,25 @@
+Found subdirectories: ['PMMA_p_rad_bs', 'PMMA_elim', 'PMMA_t_rad_bs']
+Processing subdirectory: PMMA_p_rad_bs
+Analysis complete for PMMA_p_rad_bs
+Ea = 25.56 ± 0.04 kcal/mol (0.14%)
+A = 2.60e+13 ± 2.65e+12 1/s (10.19%)
+k at 290°C = 3.12e+03 ± 3.34e+02 1/s (10.69%)
+R² = 1.0000
+Results saved to: PMMA_p_rad_bs_analysis.csv
+
+Processing subdirectory: PMMA_elim
+Analysis complete for PMMA_elim
+Ea = 29.20 ± 0.04 kcal/mol (0.14%)
+A = 2.23e+13 ± 2.61e+12 1/s (11.70%)
+k at 290°C = 1.04e+02 ± 1.28e+01 1/s (12.27%)
+R² = 1.0000
+Results saved to: PMMA_elim_analysis.csv
+
+Processing subdirectory: PMMA_t_rad_bs
+Analysis complete for PMMA_t_rad_bs
+Ea = 20.31 ± 0.05 kcal/mol (0.26%)
+A = 2.76e+13 ± 4.16e+12 1/s (15.09%)
+k at 290°C = 3.64e+05 ± 5.75e+04 1/s (15.82%)
+R² = 0.9999
+Results saved to: PMMA_t_rad_bs_analysis.csv
+

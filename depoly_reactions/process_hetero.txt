@@ -1,0 +1,33 @@
+Found subdirectories: ['co_t_ma_to_dl', 'co_p_dl_to_ma', 'co_t_dl_to_ma', 'co_p_ma_to_dl']
+Processing subdirectory: co_t_ma_to_dl
+Analysis complete for co_t_ma_to_dl
+Ea = 20.76 ± 0.06 kcal/mol (0.31%)
+A = 3.11e+13 ± 5.65e+12 1/s (18.14%)
+k at 290°C = 2.72e+05 ± 5.18e+04 1/s (19.01%)
+R² = 0.9998
+Results saved to: co_t_ma_to_dl_analysis.csv
+
+Processing subdirectory: co_p_dl_to_ma
+Analysis complete for co_p_dl_to_ma
+Ea = 24.10 ± 0.03 kcal/mol (0.13%)
+A = 3.75e+13 ± 3.35e+12 1/s (8.94%)
+k at 290°C = 1.67e+04 ± 1.57e+03 1/s (9.37%)
+R² = 1.0000
+Results saved to: co_p_dl_to_ma_analysis.csv
+
+Processing subdirectory: co_t_dl_to_ma
+Analysis complete for co_t_dl_to_ma
+Ea = 22.33 ± 0.06 kcal/mol (0.27%)
+A = 3.56e+13 ± 6.05e+12 1/s (16.97%)
+k at 290°C = 7.67e+04 ± 1.36e+04 1/s (17.79%)
+R² = 0.9999
+Results saved to: co_t_dl_to_ma_analysis.csv
+
+Processing subdirectory: co_p_ma_to_dl
+Analysis complete for co_p_ma_to_dl
+Ea = 24.62 ± 0.03 kcal/mol (0.14%)
+A = 2.24e+13 ± 2.17e+12 1/s (9.65%)
+k at 290°C = 6.24e+03 ± 6.31e+02 1/s (10.12%)
+R² = 1.0000
+Results saved to: co_p_ma_to_dl_analysis.csv
+
