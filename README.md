@@ -1,10 +1,12 @@
 # DFT Calculations Supporting "A Mechanistic Understanding of How Weak Links Enhance Polymer Recyclability Towards Uncovering Idealized Doping Strategy"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
 ## Overview
 This repository contains input and output files for the density functional theory (DFT) calculations reported in the manuscript:
 
 **“A Mechanistic Understanding of How Weak Links Enhance Polymer Recyclability Towards Uncovering Idealized Doping Strategy”**  
-*2025*
+*2026*
 
 The calculations were performed to compute thermodynamic properties for the polymer and copolymer systems discussed in the paper. 
 
